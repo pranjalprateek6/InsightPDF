@@ -63,4 +63,4 @@ View AI-generated answers based on the uploaded PDF content.
 Contact
 For queries, suggestions, or feedback, please reach out:
 - Email: pranjalprateek9@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/pranjalprateek6)
+- GitHub: https://github.com/pranjalprateek6
