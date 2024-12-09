@@ -3,6 +3,7 @@
 **InsightPDF** is a Streamlit-based application that enables users to upload PDF documents and ask questions about their content. By leveraging Hugging Face models, LangChain, and FAISS, it provides efficient document analysis and question-answering capabilities.
 
 ---
+![image](https://github.com/user-attachments/assets/0dab9646-02bc-4bf2-bfd7-e8f44ddb7e00)
 
 ## Features
 - Upload and process one or more PDF documents.
