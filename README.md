@@ -32,3 +32,35 @@
    ```bash
    git clone https://github.com/pranjalprateek6/InsightPDF.git
    cd InsightPDF
+
+## Create a virtual environment to manage dependencies:
+``` bash
+python -m venv venv
+venv\Scripts\activate
+```
+## Install Dependencies
+1. Install the required Python libraries:
+``` bash
+pip install -r requirements.txt
+```
+## Usage
+1. Running the Application
+2. Start the Streamlit app:
+
+``` bash
+streamlit run app.py
+```
+Open your browser and navigate to:
+```
+http://localhost:8501
+```
+Using the App
+Upload your PDF files via the sidebar.
+Ask questions in the provided text box.
+View AI-generated answers based on the uploaded PDF content.
+
+
+Contact
+For queries, suggestions, or feedback, please reach out:
+- Email: pranjalprateek9@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/pranjalprateek6)
